@@ -4,6 +4,8 @@
 
 A mini-project built for real-time streaming, processing, and visualization of IoT sensor data. Using **ESP32**, **MQTT**, **Apache Kafka**, and **Spring Boot**, this system creates a scalable and modular architecture for smart data collection, decision making, and feedback in real-time.
 
+![System Architecture](https://github.com/Harmit485/RealTimeSensorDataStream/blob/main/SystemArchitecture.jpg)
+
 > Developed as part of B.Tech Mini Project (PC406) under the mentorship of **Prof. Tapas Kumar Maiti**
 
 ## 👥 Contributors
